@@ -711,7 +711,7 @@ Show
 #	SetBackgroundColor 120 120 120
 
 # armour's scraps - vendor a total of 40 percent armour gear for 1 armourer's scrap
-#Show
+Show
 	Class Gloves "Body Armour" Boots Helmets Shields
 	Quality >= 1
 	SetFontSize 45
