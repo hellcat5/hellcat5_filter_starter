@@ -404,7 +404,8 @@ Show
 	Class "One Hand Mace"
 	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
 	Rarity < Magic
-	ItemLevel < 68
+#	commented out to show ALL normal gavel things
+#	ItemLevel < 68
 	SetTextColor 75 50 0
 	SetBorderColor 125 125 0
 	SetBackgroundColor 125 125 0
